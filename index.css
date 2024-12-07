@@ -1,3 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+header{
+    background-color: white;
+    position: sticky;
+    top: 0px;
+    
+    
+    
+}
 .main{
     /* height: 600px; */
     /* border: 2px solid black; */
@@ -14,5 +27,21 @@
     vertical-align: top;
 }
 img{
-    width: 100%;
+    width: 100%; 
 }
+nav{
+    margin-left: 320px;
+    font-size: 25px;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    
+    
+}
+a{
+    
+    color: black;
+    
+    
+    }
+    
